@@ -1,0 +1,6 @@
+{
+	"NAME":"CustomBulkheadProfiles",
+	"URL":"http://taniwha.org/~bill/CustomBulkheadProfiles.version",
+	"DOWNLOAD":"http://taniwha.org/~bill/CustomBulkheadProfiles_v0.2.0.zip",
+	"VERSION":{"MAJOR":0,"MINOR":2,"PATCH":0,"BUILD":0}
+}
